@@ -1,0 +1,2 @@
+[08-Jan-2018 05:14:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vbepromo/xxovek.com/connection.php on line 7
+[08-Jan-2018 05:14:53 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/vbepromo/xxovek.com/getFeedback.php on line 10
